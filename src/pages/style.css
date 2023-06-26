@@ -1,0 +1,43 @@
+.custom-tabs .MuiTabs-indicator {
+    display: none;
+}
+.custom-tabs .MuiTabPanel-root {
+    display: none;
+}
+
+.custom-tabs .MuiButtonBase-root {
+    border-right: 1px solid #5048E5;
+    border-bottom: 1px solid #5048E5;
+    border-top: 1px solid #5048E5;
+    width: 166px;
+    padding: 10px 0;
+}
+
+.custom-tabs .MuiButtonBase-root:last-child {
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.custom-tabs .MuiButtonBase-root:first-child {
+    border-left: 1px solid #5048E5;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.custom-tabs .MuiTabPanel-root {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.custom-tabs .MuiTabs-scroller {
+    margin-bottom: 10px !important;
+}
+
+.textfield--custom textarea:disabled {
+    -webkit-text-fill-color: black;
+}
+.textfield--custom input:disabled {
+    -webkit-text-fill-color: black;
+}
