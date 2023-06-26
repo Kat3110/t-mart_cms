@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ca42651-31ef-43c0-8d4f-27ee8cef975f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LiZ9wxFnH2KwgnuEYloMlIWBAr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Katya/Documents/tmart-cms",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.3.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Katya\Documents\tmart-cms\src\pages\edit" />
+      <recent name="C:\Users\Katya\Documents\tmart-cms\src\components" />
+      <recent name="C:\Users\Katya\Documents\tmart-cms\src\pages\member" />
+      <recent name="C:\Users\Katya\Documents\tmart-cms\src\pages\notice" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ca42651-31ef-43c0-8d4f-27ee8cef975f" name="Changes" comment="" />
+      <created>1676355715440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676355715440</updated>
+      <workItem from="1676355716609" duration="6915000" />
+      <workItem from="1676436218080" duration="11351000" />
+      <workItem from="1676515936905" duration="8122000" />
+      <workItem from="1676607021768" duration="7692000" />
+      <workItem from="1676865822209" duration="10192000" />
+      <workItem from="1676949274660" duration="18345000" />
+      <workItem from="1677039972677" duration="23968000" />
+      <workItem from="1677246073703" duration="3696000" />
+      <workItem from="1677471064779" duration="4759000" />
+      <workItem from="1677490306831" duration="443000" />
+      <workItem from="1677511959000" duration="18230000" />
+      <workItem from="1677816760277" duration="7876000" />
+      <workItem from="1677839128232" duration="302000" />
+      <workItem from="1678280892089" duration="12000" />
+      <workItem from="1678336100365" duration="3646000" />
+      <workItem from="1678418160203" duration="609000" />
+      <workItem from="1678428243316" duration="705000" />
+      <workItem from="1678431240979" duration="1025000" />
+      <workItem from="1678685827331" duration="297000" />
+      <workItem from="1687780472095" duration="537000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/notice/noticeFAQ.js</url>
+          <line>101</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/content/statisticalAnalysis.js</url>
+          <line>220</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/content/statisticalAnalysis.js</url>
+          <line>398</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
